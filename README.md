@@ -1,4 +1,4 @@
-# totes-data-project
+# Data engineering project
 
 ## Overview
 
